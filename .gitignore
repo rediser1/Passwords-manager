@@ -1,0 +1,8 @@
+passwords.db
+dist/
+build/
+*.spec
+.idea/
+venv/
+.venv/
+output/
